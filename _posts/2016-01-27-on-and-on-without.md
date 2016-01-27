@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T22:34:41.684Z'
-dateModified: '2016-01-27T22:34:30.546Z'
+datePublished: '2016-01-27T22:37:40.463Z'
+dateModified: '2016-01-27T22:37:36.142Z'
 title: 'on and on without '
 author: []
+sourcePath: _posts/2016-01-27-on-and-on-without.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-27-on-and-on-without.md
-published: true
 url: on-and-on-without/index.html
 _type: Article
 
