@@ -22,8 +22,8 @@ color:
     - '#fefefc'
     - '#080200'
     - '#aeafcb'
-  brandStrength: 1
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 0
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
