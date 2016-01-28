@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-28T09:47:45.346Z'
-dateModified: '2016-01-28T09:47:33.257Z'
+datePublished: '2016-01-28T09:56:59.499Z'
+dateModified: '2016-01-28T09:56:56.433Z'
 title: this is not a conspirecy theory
 author: []
+sourcePath: _posts/2016-01-28-this-is-not-a-conspirecy-theory.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-28-this-is-not-a-conspirecy-theory.md
-published: true
 url: this-is-not-a-conspirecy-theory/index.html
-_type: WebPage
+_type: Article
 
 ---
 there is little doubt in my mind.
