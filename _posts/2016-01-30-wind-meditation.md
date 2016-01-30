@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: this is about wind meditation which is not something most folks do
-datePublished: '2016-01-30T22:33:22.474Z'
+datePublished: '2016-01-30T22:33:22.535Z'
 dateModified: '2016-01-30T22:33:19.515Z'
 title: Wind meditation
 author: []
