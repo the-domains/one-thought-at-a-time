@@ -4,7 +4,7 @@
         <description><![CDATA[One Thought at a Time]]></description>
         <link>https://thegrid.ai/one-thought-at-a-time/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 09:57:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 22:33:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/one-thought-at-a-time/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[I can]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/one-thought-at-a-time/398d55a6-4f46-42e2-9be5-9e3ac1e7a785/index.html</link>
             <guid isPermaLink="false">398d55a6-4f46-42e2-9be5-9e3ac1e7a785</guid>
             <pubDate>Wed, 27 Jan 2016 22:44:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wind meditation]]></title>
+            <description><![CDATA[<article><h1>Wind meditation</h1><p>Meditate from the side of the wind</p></article>]]></description>
+            <link>https://thegrid.ai/one-thought-at-a-time/wind-meditation/index.html</link>
+            <guid isPermaLink="false">286dddf1-f9b5-4185-ac87-2a994bd8db98</guid>
+            <pubDate>Sat, 30 Jan 2016 22:33:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[this is not a conspirecy theory]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/one-thought-at-a-time/contradiction/index.html</link>
             <guid isPermaLink="false">28bc1213-0cb8-4fa0-ad92-02119f2ed79c</guid>
             <pubDate>Tue, 26 Jan 2016 17:22:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Transforming </p>]]></description>
-            <link>https://thegrid.ai/one-thought-at-a-time/8060229a-d1ff-401f-9772-2fd15fcd0d22/index.html</link>
-            <guid isPermaLink="false">8060229a-d1ff-401f-9772-2fd15fcd0d22</guid>
-            <pubDate>Tue, 26 Jan 2016 17:14:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
