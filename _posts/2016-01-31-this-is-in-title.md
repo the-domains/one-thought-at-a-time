@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: this is in description
-datePublished: '2016-01-31T00:10:23.676Z'
-dateModified: '2016-01-31T00:09:53.887Z'
+datePublished: '2016-01-31T00:13:10.637Z'
+dateModified: '2016-01-31T00:13:06.165Z'
 title: this is in title
 author: []
+sourcePath: _posts/2016-01-31-this-is-in-title.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-31-this-is-in-title.md
-published: true
 url: this-is-in-title/index.html
-_type: WebPage
+_type: Article
 
 ---
 to slip to sleep is a nice thing to do
